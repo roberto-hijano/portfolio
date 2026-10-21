@@ -7,8 +7,6 @@
 
 > **Regla de alcance:** HOSPIT-IT es un laboratorio educativo. Se utilizarán datos, usuarios, pedidos y activos ficticios. No se conectará a una red hospitalaria real ni se introducirán datos de pacientes.
 
-\newpage
-
 ## Índice de contenido
 
 1. Resumen ejecutivo
